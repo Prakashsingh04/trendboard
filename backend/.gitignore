@@ -10,3 +10,5 @@ __pycache__/
 
 # IDE folders
 .vscode/
+
+serviceAccountKey.json
